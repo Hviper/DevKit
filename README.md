@@ -4,6 +4,17 @@
 > 
 > 基于 **Swift + SwiftUI + AppKit** 打造，**零第三方外部依赖**，打包产物体积仅 **~4.2MB**，毫秒级冷启动，支持 Menu Bar 菜单栏常驻与独立主窗口。
 
+[![Latest Release](https://img.shields.io/github/v/release/Hviper/DevKit?label=Latest%20Release&color=blue)](https://github.com/Hviper/DevKit/releases/latest)
+[![macOS 13.0+](https://img.shields.io/badge/macOS-13.0%2B-brightgreen)](https://github.com/Hviper/DevKit)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+### 🚀 立即下载
+
+| 下载渠道 | 文件类型 | 适用架构 | 下载链接 |
+| :--- | :--- | :--- | :--- |
+| **DMG 镜像安装包** | `.dmg` (~3.0MB) | Apple Silicon (M1/M2/M3/M4) | [**下载 DevKit-v1.0.1-macOS-arm64.dmg**](https://github.com/Hviper/DevKit/releases/download/v1.0.1/DevKit-v1.0.1-macOS-arm64.dmg) |
+| **便携压缩包** | `.zip` (~2.5MB) | Apple Silicon (M1/M2/M3/M4) | [**下载 DevKit-v1.0.1-macOS-arm64.zip**](https://github.com/Hviper/DevKit/releases/download/v1.0.1/DevKit-v1.0.1-macOS-arm64.zip) |
+
 ---
 
 ## ✨ 核心特性
