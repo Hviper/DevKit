@@ -1,6 +1,7 @@
 # Xcode & Swift Package Manager
 .build/
 build/
+dist/
 DerivedData/
 *.xcodeproj
 *.xcworkspace
