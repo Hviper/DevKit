@@ -1,0 +1,23 @@
+# Xcode & Swift Package Manager
+.build/
+build/
+DerivedData/
+*.xcodeproj
+*.xcworkspace
+.swiftpm/
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# Antigravity & Agent workspace cache
+.agents/
+
+# User configs & local scratch
+*.swp
+*.swo
+*~
